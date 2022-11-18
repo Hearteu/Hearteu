@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris.
-- 👀 I’m interested in cybersecurity and web development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently in my sophomore year as an IT student.
 - 💞️ I’m looking to collaborate on any startup project.
 - email: heartofmaynard@gmail.com
