@@ -20,7 +20,7 @@ I'm a **Full-stack Developer** and **AI Enthusiast** focused on building intelli
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,django,java,ts,js,postgres,mongodb,solidity,html,css&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,django,java,ts,js,postgres,supabase,solidity,html,css&perline=13" />
   </a>
 </p>
 
