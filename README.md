@@ -11,9 +11,10 @@ I'm a **Full-stack Developer** and **AI Enthusiast** focused on building intelli
 ---
 
 ### 🚀 Featured Projects
+- **[PhLaw Chatbot](https://github.com/Hearteu/phlaw-chatbot)**: AI assistant for Philippine Supreme Court jurisprudence.
 - **[Team_4o4](https://github.com/Hearteu/Team_4o4)**: Pharmacy inventory system with an AI chat assistant.
 - **[Solana Loyalty Rewards](https://github.com/Hearteu/solana_loyalty_rewards_app)**: Modern loyalty platform with cNFT rewards.
-- **[PhLaw Chatbot](https://github.com/Hearteu/phlaw-chatbot)**: AI assistant for Philippine Supreme Court jurisprudence.
+
 
 ---
 
